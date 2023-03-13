@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://www.eightfeet.cn/dwx/static/css/main.050d3ea0.css",
-    "main.js": "https://www.eightfeet.cn/dwx/static/js/main.103afeab.js",
+    "main.css": "https://www.eightfeet.cn/dwx/static/css/main.2baa87b2.css",
+    "main.js": "https://www.eightfeet.cn/dwx/static/js/main.3f7d89e7.js",
     "pwd.201ad2ad.css": "https://www.eightfeet.cn/dwx/static/css/pwd.201ad2ad.acb3b84a.css",
     "pwd.201ad2ad.js": "https://www.eightfeet.cn/dwx/static/js/pwd.201ad2ad.76c9daec.js",
     "static/js/6871.6d8e2c52.chunk.js": "https://www.eightfeet.cn/dwx/static/js/6871.6d8e2c52.chunk.js",
@@ -192,7 +192,7 @@
     "index.html": "https://www.eightfeet.cn/dwx/index.html"
   },
   "entrypoints": [
-    "static/css/main.050d3ea0.css",
-    "static/js/main.103afeab.js"
+    "static/css/main.2baa87b2.css",
+    "static/js/main.3f7d89e7.js"
   ]
 }
